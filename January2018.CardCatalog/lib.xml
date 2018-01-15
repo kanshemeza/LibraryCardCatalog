@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>The Hobbit</Title>
+    <Author>JRR Tolkien</Author>
+    <Genre>Fantasy</Genre>
+    <Year>1937</Year>
+  </Book>
+</ArrayOfBook>
